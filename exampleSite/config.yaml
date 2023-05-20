@@ -76,7 +76,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # dark or light
 
   font:
     fontSize: 1.1rem # default: 1rem
@@ -124,7 +124,7 @@ params:
     title: "Arigela Pranay"
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great and feels fantastic, I am also an aspiring Data Scientist"
-    image:  false #/images/hero.svg
+    image: /images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
