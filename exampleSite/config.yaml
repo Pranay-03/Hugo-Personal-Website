@@ -188,27 +188,29 @@ params:
           url: "https://www.gctcportal.in/p/new.html?m=1"
         content: ""
 
-      - job: "Machine Learning Intership"
-        company: "Cantiliver"
-        companyUrl: "https://www.cantileverlabs.com/"
-        date: "Jul 29, 2022 - Aug 29, 2022"
-        featuredLink:
-          enable: false
-          url: ""
-        info:
-          enable: false
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      #- job: "Machine Learning Intership"
+      #  company: "Cantiliver"
+      #  companyUrl: "https://www.cantileverlabs.com/"
+      #  date: "Jul 29, 2022 - Aug 29, 2022"
+       # featuredLink:
+      #    enable: false
+      #    url: ""
+      #  info:
+      #    enable: false
+      #    content: I worked as a software developer for more than one year in Amazon.
+      #  content: |
+      #    I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+#
+      #    - Lead backend developer for a product.
+      #    - Created a frontend design for a product.
 
       - job: "Machine Learning Intership"
         company: "Cantiliver"
         companyUrl: "https://www.cantileverlabs.com/"
         date: "Jul 29, 2022 - Aug 29, 2022"
         content: ""
+
+
   # Education
   education:
     enable: true
@@ -246,6 +248,7 @@ params:
         school:
           name: "Sri Chaitanya Junior College"
           url: "https://example.org"
+        date: "2018 - 2020"
         GPA: "87.6%"
         featuredLink:
           enable: false
@@ -255,6 +258,7 @@ params:
         school:
           name: "Sacred Heart High School."
           url: "https://example.org"
+        date: "2018"
         GPA: "92%"
         featuredLink:
           enable: false
@@ -280,7 +284,7 @@ params:
     # title: "Custom Name"
     items:
       - title: ICMLSPCS
-        content: International Conference on Machine Learning Signal Processing and Control Systems .
+        content: International Conference on Machine Learning Signal Processing and Control Systems
         image: /images/projects/profile.png
         featured:
           name: Demo
