@@ -186,7 +186,6 @@ params:
           enable: true
           name: "View the project"
           url: "https://www.gctcportal.in/p/new.html?m=1"
-        content: ""
 
       #- job: "Machine Learning Intership"
       #  company: "Cantiliver"
@@ -208,7 +207,6 @@ params:
         company: "Cantiliver"
         companyUrl: "https://www.cantileverlabs.com/"
         date: "Jul 29, 2022 - Aug 29, 2022"
-        content: ""
 
 
   # Education
