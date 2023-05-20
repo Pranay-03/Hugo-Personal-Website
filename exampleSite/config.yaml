@@ -131,7 +131,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/images/me.png"
+      url: "/images/Resume - Google Docs"
       download: true
       newPage: false
     socialLinks:
