@@ -76,7 +76,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    defaultTheme: "dark" # dark or light
+    defaultTheme: "light" # dark or light
 
   font:
     fontSize: 1.1rem # default: 1rem
@@ -121,7 +121,7 @@ params:
   hero:
     enable: true
     intro: "Hey, my name is"
-    title: "Arigela Pranay"
+    title: " Arigela Pranay"
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great and feels fantastic, I am also an aspiring Data Scientist"
     image:  false #/images/hero.svg
@@ -136,14 +136,15 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
+        - icon: fa fa-envelope
+          url: mailto:arigelapranaykumar123@gmail.com
         - icon: fab fa-github
           url: https://github.com/Pranay-03
         - icon: fab fa-instagram
           url: https://www.instagram.com/i_am_pranay_7/
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/pranay-kumar-537281249/
-        - icon: fa fa-envelope
-          url: mailto:arigelapranaykumar123@gmail.com
+        
       #customIcons:
       #  - icon: /fav.png
       #    url: "https://example.com"
@@ -172,6 +173,7 @@ params:
         - "Python"
         - "HUGO"
         - "Java"
+        - "Angular"
 
   # Experience
     
@@ -189,10 +191,11 @@ params:
           url: "www.gctcportal.in"
 
 
-      - job: "Intership"
+      - job: "ML Intership"
         company: "Cantilever"
         companyUrl: "https://cantileverlabs.com"
         date: "Jul 2022 - Aug 2022"
+        content: "Outstanding Performer in Cantilever Labs Artifical Intelligence and Machine Learning Intership"
 
 
 
