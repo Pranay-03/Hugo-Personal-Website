@@ -189,11 +189,10 @@ params:
           url: "www.gctcportal.in"
 
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Intership"
+        company: "Cantilever"
+        companyUrl: "https://cantileverlabs.com"
+        date: "Jul 2022 - Aug 2022"
 
 
 
