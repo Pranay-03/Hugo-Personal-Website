@@ -186,7 +186,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://www.gctcportal.in/p/new.html?m=1"
-        content: false #"I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: ""
 
       - job: "Machine Learning Intership"
         company: "Cantiliver"
@@ -197,19 +197,18 @@ params:
           url: ""
         info:
           enable: false
-          content: #I worked as a software developer for more than one year in Amazon.
-       # content: |
-          #I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          content: I worked as a software developer for more than one year in Amazon.
+        content: |
+          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          #- Lead backend developer for a product.
-          #- Created a frontend design for a product.
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
 
-      #- job: "Product Designer"
-      #  company: "Google"
-      #  companyUrl: "https://example.com"
-      #  date: "Feb 2016 - Mar 2017"
-      #  content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
+      - job: "Machine Learning Intership"
+        company: "Cantiliver"
+        companyUrl: "https://www.cantileverlabs.com/"
+        date: "Jul 29, 2022 - Aug 29, 2022"
+        content: ""
   # Education
   education:
     enable: true
