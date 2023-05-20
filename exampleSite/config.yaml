@@ -131,7 +131,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/images/Resume - Google Docs"
+      url: "/images/Resume - Google Docs.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -183,7 +183,7 @@ params:
     items:
       - job: "Senior Administrator "
         company: "GCTCPORTAL"
-        companyUrl: "ww.gctcportal.in"
+        companyUrl: "https://www.gctcportal.in/p/new.html?m=1"
         date: "Nov 2022 - present"
         featuredLink:
           enable: true
@@ -247,7 +247,7 @@ params:
           name: "Sacred Heart High School."
           url: "https://example.org"
         date: "2018"
-        GPA: "92%"
+        GPA: "9.2"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -259,7 +259,7 @@ params:
     items:
       - title: Administrator 
         content: The Current Admin of GCTCPORTAL (Geethanjali College of Engineering and Technology Portal) 
-        url: www.gctcportal.in
+        url: https://www.gctcportal.in/p/new.html?m=1
       - title: Technical Lead 
         content: Technical Lead of VIBGYOR and Bhaswara.
       - title: DATUM DECODER
