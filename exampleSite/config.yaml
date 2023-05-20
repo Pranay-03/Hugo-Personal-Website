@@ -362,7 +362,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false  # enable this to activate recently posted blogs at the bottom of the page
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com
