@@ -59,6 +59,7 @@ params:
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
+  mailto: true
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -142,7 +143,7 @@ params:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/pranay-kumar-537281249/
         - icon: fa fa-envelope
-          url: mailto:arigelapranaykumar123@gmail.com
+          mailto: arigelapranaykumar123@gmail.com
       #customIcons:
       #  - icon: /fav.png
       #    url: "https://example.com"
