@@ -188,7 +188,7 @@ params:
         featuredLink:
           enable: true
           name: "View the project"
-          url: "www.gctcportal.in"
+          url: "https://www.gctcportal.in/p/new.html?m=1"
 
 
       - job: "ML Intership"
@@ -273,7 +273,7 @@ params:
     items:
       - title: ICMLSPCS
         content: International Conference on Machine Learning Signal Processing and Control Systems
-        image: /images/projects/profile.png
+        image: /images/projects/icmlspcs.webp
         featured:
           name: Demo
           link: https://icmlspcs-gcet.netlify.app
