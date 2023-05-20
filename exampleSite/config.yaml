@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://arigelapranay.netlify.app/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
@@ -55,7 +55,7 @@ markup:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Pranay Porfolio"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -78,7 +78,7 @@ params:
     # defaultTheme: "light" # dark
 
   font:
-    fontSize: 1rem # default: 1rem
+    fontSize: 1.3rem # default: 1rem
     fontWeight: 400 # default: 400
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
