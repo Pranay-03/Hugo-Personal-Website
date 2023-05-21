@@ -123,7 +123,7 @@ params:
     intro: "Hey, my name is"
     title: " Arigela Pranay"
     subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great and feels fantastic, I am also an aspiring Data Scientist"
+    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great and feel fantastic. I am also an aspiring Data Scientist."
     image:  false #/images/hero.svg
     bottomImage:
       enable: true
@@ -155,9 +155,9 @@ params:
     title: "About Me"
     image:  false #"/images/me.png"
     content: |-
-      Hi, I'm Arigela Pranay Kumar, a third-year student at Geethanjali College of Engineering and Technology, pursuing a Bachelor of Computer Science in Data Science. I'm passionate about full stack development and data science, and I love building awesome things. I'm currently working as a Senior Administrator at GCTCPORTAL, where I get to use my skills and knowledge to help others.
+      Hi, I'm Arigela Pranay Kumar, a third-year student at Geethanjali College of Engineering and Technology, pursuing a Bachelor of Computer Science in Data Science. I'm passionate about full-stack development and data science, and I love building awesome things. I'm currently working as a Senior Administrator at GCTCPORTAL, where I get to use my skills and knowledge to help others.
 
-      In my free time, I enjoy playing chess and volleyball. I'm also always interested in learning new things, and I'm a believer in open source software. I believe that open source software is a powerful tool that can be used to make the world a better place, and I'm always looking for ways to contribute to open source projects.
+      In my free time, I enjoy playing chess and volleyball. I'm also always interested in learning new things, and I'm a believer in open-source software. I believe that open source software is a powerful tool that can be used to make the world a better place, and I'm always looking for ways to contribute to open source projects.
 
       I'm excited to see what the future holds, and I'm looking forward to continuing to learn and grow. I'm confident that I can use my skills and knowledge to make a positive impact on the world.
     skills:
@@ -191,11 +191,11 @@ params:
           url: "https://www.gctcportal.in/p/new.html?m=1"
 
 
-      - job: "ML Intership"
+      - job: "ML Internship"
         company: "CANTILEVER"
         companyUrl: "https://cantileverlabs.com"
         date: "Jul 2022 - Aug 2022"
-        content: "Outstanding Performer in Cantilever Labs Artifical Intelligence and Machine Learning Intership"
+        content: "Outstanding Performer in Cantilever Labs Artificial Intelligence and Machine Learning Internship"
 
 
 
@@ -258,12 +258,12 @@ params:
     # title: "Custom Name"
     items:
       - title: Administrator 
-        content: The Current Admin of GCTCPORTAL (Geethanjali College of Engineering and Technology Portal) 
+        content: The current Administrator of GCTCPORTAL (Geethanjali College of Engineering and Technology Portal) 
         url: https://www.gctcportal.in/p/new.html?m=1
       - title: Technical Lead 
-        content: Technical Lead of VIBGYOR and Bhaswara.
+        content: Technical Lead of ViBGYOR and Bhaswara
       - title: DATUM DECODER
-        content: ELITE member of DATUM DECODERS.
+        content: ELITE member of DATUM DECODERS
         #url: "https://github.com/gurusabarish/hugo-profile"
 
   # projects
@@ -321,7 +321,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
     email: arigelapranaykumar123@gmail.com
     btnName: Contact Me
     # formspree:
@@ -360,7 +360,7 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "All rights reserved"
+    copyright: "@Pranay All rights reserved"
     pageNotFound: "Page not found"
     emailText: "Check out this site"
 
