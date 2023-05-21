@@ -262,6 +262,7 @@ params:
         url: https://www.gctcportal.in/p/new.html?m=1
       - title: Technical Lead 
         content: Technical Lead of ViBGYOR and Bhaswara
+        url: https://www.bhaswara.gcet.edu.in/
       - title: DATUM DECODER
         content: ELITE member of DATUM DECODERS
         #url: "https://github.com/gurusabarish/hugo-profile"
@@ -294,7 +295,7 @@ params:
         image: /images/projects/converter.jpg
         featured:
           name: Demo
-          link: example.com
+          link: https://github.com/Pranay-03/Super-Market-Analysis
         badges:
           - "Python"
           - "Pandas"
@@ -308,14 +309,14 @@ params:
         image: /images/projects/profile2.jpg
         featured:
           name: Demo V2
-          link: #https://hugo-profile-2.netlify.app
+          link: https://github.com/Pranay-03/Diabetes-detection-intership
         badges:
           - "Python"
           - "Mathplotlib"
           - "Scikit-Learn"
         links:
           - icon: fab fa-github
-            url: #https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/Pranay-03/Diabetes-detection-intership
 
   #Contact
   contact:
