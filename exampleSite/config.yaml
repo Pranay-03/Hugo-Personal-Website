@@ -55,7 +55,7 @@ markup:
     #   weight: 2
 
 params:
-  title: "Arigela Pranay Kumar Porfolio"
+  title: "Arigela Pranay Kumar"
   description: Hey👋!, This is Arigela Pranay Kumar this is my porfolio website used to display my skills Blogs and Projects will be updated shortly..
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
