@@ -360,7 +360,7 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "@Pranay All rights reserved"
+    copyright: "All rights reserved"
     pageNotFound: "Page not found"
     emailText: "Check out this site"
 
