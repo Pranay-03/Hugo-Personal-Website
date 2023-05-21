@@ -1,6 +1,6 @@
 baseURL: "https://arigelapranay.netlify.app/"
 languageCode: "en-us"
-title: "Arigela Pranay Kumar "
+title: "Arigela Pranay Kumar Porfolio "
 theme: hugo-profile
 
 outputs:
@@ -14,7 +14,7 @@ outputs:
 
 Paginate: 3
 enableRobotsTXT: true
-# disqusShortname: your-disqus-shortname
+disqusShortname: arigela-pranay-kumar 
 # googleAnalytics: G-MEASUREMENT_ID
 
 markup:
@@ -55,8 +55,8 @@ markup:
     #   weight: 2
 
 params:
-  title: "Pranay Porfolio"
-  description: Text about my cool site
+  title: "Arigela Pranay Kumar Porfolio"
+  description: Hey👋!, This is Arigela Pranay Kumar this is my porfolio website used to display my skills Blogs and Projects will be updated shortly..
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
   mailto: true
@@ -79,7 +79,7 @@ params:
     defaultTheme: "light" # dark or light
 
   font:
-    fontSize: 1.1rem # default: 1rem
+    fontSize: 1rem # default: 1rem
     fontWeight: 400 # default: 400
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
