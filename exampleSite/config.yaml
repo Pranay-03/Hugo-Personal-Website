@@ -24,18 +24,18 @@ markup:
 
       ## Disable the below menus:main block to enable blogs and gallery
 
-#Menus:
-#  main:
-#    - identifier: blog
-#      name: Blog
-#      title: Blog posts
-#      url: /blogs
-#      weight: 1
-#    - identifier: gallery
-#      name: Gallery
-#      title: Blog posts
-#      url: /gallery
-#      weight: 2
+      Menus:  
+        main:
+          - identifier: blog
+            name: Blog
+            title: Blog posts
+            url: /blogs
+            weight: 1
+          - identifier: gallery
+            name: Gallery
+            title: Blog posts
+            url: /gallery
+            weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -179,7 +179,7 @@ params:
     
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Experience"
     items:
       - job: "Senior Administrator "
         company: "GCTCPORTAL"
@@ -202,8 +202,8 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
-    index: false
+    title: "Education"
+    index: true
     items:
       - title: "Bachelor of Computer Science and Engineering (Data Science)"
         school:
@@ -255,7 +255,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Achievements"
     items:
       - title: Administrator 
         content: The current Administrator of GCTCPORTAL (Geethanjali College of Engineering and Technology Portal) 
@@ -270,7 +270,7 @@ params:
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "Projects"
     items:
       - title: ICMLSPCS
         content: International Conference on Machine Learning Signal Processing and Control Systems
@@ -321,7 +321,7 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
+    title: "Contact Me"
     content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
     email: arigelapranaykumar123@gmail.com
     btnName: Contact Me
