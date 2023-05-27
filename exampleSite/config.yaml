@@ -203,7 +203,7 @@ params:
   education:
     enable: true
     title: "Education"
-    index: true
+    index: false 
     items:
       - title: "Bachelor of Computer Science and Engineering (Data Science)"
         school:
