@@ -12,7 +12,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+Paginate: 4
 enableRobotsTXT: true
 disqusShortname: arigela-pranay-kumar 
 # googleAnalytics: G-MEASUREMENT_ID
@@ -347,7 +347,7 @@ params:
 
   # List pages like blogs and posts
   listPages:
-    disableFeaturedImage: false
+    disableFeaturedImage: true
 
   # Single pages like blog and post
   singlePages:
