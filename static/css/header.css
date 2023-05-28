@@ -3,8 +3,15 @@ header {
     position: relative;
 }
 
+
+
 header .navbar .navbar-nav a {
     color: var(--text-color) !important;
+}
+
+header .navbar.animate {
+    animation: fade-up 0.5s ease-in;
+    background-color: var(--background-color) !important;
 }
 
 #theme-toggle {
