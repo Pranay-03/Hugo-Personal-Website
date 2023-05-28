@@ -4,6 +4,12 @@
     font-size: 17px;
 }
 
+.navbar.animate {
+    animation: fade-up 0.5s ease-in;
+    background-color: var(--background-color) !important;
+}
+
+
 #single .title > h1 {
     opacity: 0.8;
     color: var(--text-color) !important;
@@ -310,7 +316,3 @@
 
 /* Singlepage scroll progress end */
 
-header .navbar.animate {
-    animation: fade-up 0.5s ease-in;
-    background-color: var(--background-color) !important;
-}
