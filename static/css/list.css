@@ -20,6 +20,11 @@
     transform: translateY(-7px);
 }
 
+header .navbar.animate {
+    animation: fade-up 0.5s ease-in;
+    background-color: var(--background-color) !important;
+}
+
 #list-page .card-text * {
     background-color: var(--secondary-color) !important;
 }
